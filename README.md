@@ -21,10 +21,10 @@ I am IOS Developer from Tashkent, Uzbekistan. I started my career November 2020.
 ## My Projects 
 
 ### Pet in repo
-Soon 😏
+[![Weather App](https://img.shields.io/badge/My%20first%20Project%20-%20Weather%20App-black?style=for-the-badge)](https://github.com/timis25/Weather_App)
 
 ### Pet in AppStore
-Soon 😏
+Soon 😎
 
 ## Follow me
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/timis2501/)
