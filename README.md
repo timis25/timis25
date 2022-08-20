@@ -21,7 +21,7 @@ I am IOS Developer from Tashkent, Uzbekistan. I started my career November 2020.
 ## My Projects 
 
 ### Pet in repo
-[![Weather App](https://img.shields.io/badge/My%20first%20Project%20-%20Weather%20App-black?style=for-the-badge)](https://github.com/timis25/Weather_App)
+[![Healthify](https://img.shields.io/badge/My%20first%20Project%20-%20Healthify-black?style=for-the-badge)](https://github.com/timis25/Healthify)
 
 ### Pet in AppStore
 Soon 😎
