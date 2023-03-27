@@ -24,7 +24,7 @@ I am IOS Developer from Tashkent, Uzbekistan. I started my career November 2020.
 [![Healthify](https://img.shields.io/badge/My%20first%20Project%20-%20Healthify-black?style=for-the-badge)](https://github.com/timis25/Healthify)
 
 ### Pet in AppStore
-Soon 😎
+[![Diarify](https://img.shields.io/badge/My%20first%20Project%20-%20Healthify-black?style=for-the-badge)](https://apps.apple.com/app/diarify/id1667953142)
 
 ## Follow me
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/timis2501/)
